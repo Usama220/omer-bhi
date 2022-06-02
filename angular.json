@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "contacts-management-test"
+  "defaultProject": "contacts-management-test",
+  "cli": {
+    "packageManager": "yarn"
+  }
 }
